@@ -1,0 +1,58 @@
+[
+   {
+      "avg_duration": 18425.3,
+      "avg_n": 10,
+      "id": 1,
+      "login": "man",
+      "password": "boy"
+   },
+   {
+      "avg_duration": 14.333333333334,
+      "avg_n": 3,
+      "id": 2,
+      "login": "peredry",
+      "password": "yeah"
+   },
+   {
+      "avg_duration": 213.333333333334,
+      "avg_n": 3,
+      "id": 3,
+      "login": "misack",
+      "password": "hello"
+   },
+   {
+      "avg_duration": 7263.333333333334,
+      "avg_n": 3,
+      "id": 4,
+      "login": "krys",
+      "password": "boy"
+   },
+   {
+      "avg_duration": 1921.333333333334,
+      "avg_n": 3,
+      "id": 5,
+      "login": "lopanka",
+      "password": "yeah"
+   },
+   {
+      "avg_duration": 332.333333333334,
+      "avg_n": 3,
+      "id": 6,
+      "login": "baboy",
+      "password": "hello"
+   },
+   {
+      "avg_duration": 21894.714285714286,
+      "avg_n": 7,
+      "id": 1,
+      "login": "asd",
+      "password": "asd"
+   },
+   {
+      "avg_duration": 0,
+      "avg_n": 0,
+      "id": 8,
+      "login": "hello",
+      "password": "world"
+   }
+]
